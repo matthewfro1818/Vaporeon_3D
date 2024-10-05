@@ -1,0 +1,13 @@
+{
+  "skins": [
+    {
+      "localization_name": "Vaporeon",
+      "geometry": "geometry.cosmetic",
+      "texture": "vaporeon.png",
+      "cape": "Cape Name.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "pack",
+  "localization_name": "pack"
+}
